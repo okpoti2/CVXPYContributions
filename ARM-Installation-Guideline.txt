@@ -1,4 +1,4 @@
-# The following installation of CVXPY guideline has only been tested on Raspberypi
+# The following installation of CVXPY guideline has only been tested on Raspberrypi
 
 # More memory for installation
 sudo /bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=2048
